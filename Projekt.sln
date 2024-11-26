@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EksameProjekt", "EksameProjekt\EksameProjekt.csproj", "{32506C7F-C6E2-4200-BC7C-A8DFC51D228B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject", "MyProject\MyProject.csproj", "{32506C7F-C6E2-4200-BC7C-A8DFC51D228B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAPI", "MyAPI\MyAPI.csproj", "{A34FCF63-5798-4B5C-B031-F609BD476083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCore", "MyCore\MyCore.csproj", "{016BE3ED-74E5-4648-9B55-06083DA85E7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{32506C7F-C6E2-4200-BC7C-A8DFC51D228B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32506C7F-C6E2-4200-BC7C-A8DFC51D228B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32506C7F-C6E2-4200-BC7C-A8DFC51D228B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34FCF63-5798-4B5C-B031-F609BD476083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34FCF63-5798-4B5C-B031-F609BD476083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34FCF63-5798-4B5C-B031-F609BD476083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34FCF63-5798-4B5C-B031-F609BD476083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016BE3ED-74E5-4648-9B55-06083DA85E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016BE3ED-74E5-4648-9B55-06083DA85E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016BE3ED-74E5-4648-9B55-06083DA85E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016BE3ED-74E5-4648-9B55-06083DA85E7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
